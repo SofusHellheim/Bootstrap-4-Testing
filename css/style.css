@@ -1,3 +1,13 @@
 #jumbotronFooter {
 	margin-bottom: 0px;
+	padding: 32px;
+}
+
+#containerFooter {
+	padding: 0px;
+	margin-top: 10px;
+}
+
+#jumbotronFooter .lead {
+	text-align: center;
 }
